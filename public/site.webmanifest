@@ -1,0 +1,28 @@
+{
+  "name": "SAF GROUP - Kum Ocağı, Beton, Enerji ve Mezbane Hizmetleri",
+  "short_name": "SAF GROUP",
+  "description": "30 yıllık deneyimi ile inşaat sektöründe güvenilir çözümler",
+  "theme_color": "#dc2626",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
